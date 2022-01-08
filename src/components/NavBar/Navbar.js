@@ -16,7 +16,7 @@ export const Navbar = ({children, image,}) => {
     return (
         <div>
             <nav className={`bannercontainer container`}>
-                <img src={checksrc} alt={checksrc}/>
+                <img src={checksrc} alt={checksrc} className="images"/>
                 <header>{children}</header>
                 <SubBanner></SubBanner>
             </nav>
