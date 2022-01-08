@@ -1,0 +1,28 @@
+.important {
+    display: inline-block;
+    padding: 5px,4px;
+    background-color: black;
+    border-radius: 5px;
+    margin: 5px;
+    width: 13%;
+    color: white;
+}
+
+.minor {
+    background-color: var(--minor);
+}
+
+.big {
+    font-size: 2vw;
+    padding: 0, .5vw;
+}
+
+.small {
+    font-size: 8px;
+    padding: 3px;
+}
+
+.btn {
+    border-radius: 5px;
+    color: white;
+}

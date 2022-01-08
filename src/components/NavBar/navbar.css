@@ -1,0 +1,26 @@
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.bannercontainer {
+    width: 100%;
+}
+
+header {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: whitesmoke;
+    border: 2px solid white;
+    font-size:6vw;
+    font-family: Georgia, serif;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+  
